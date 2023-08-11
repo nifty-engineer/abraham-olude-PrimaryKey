@@ -37,8 +37,6 @@ import java.sql.Statement;
  *
  *      The datatype "SERIAL" is an int that will autogenerate a unique number for us.
  *      The constraint "PRIMARY KEY" identifies the id column as the primary key column.
- *
- *      Additional reference material if needed: https://www.w3schools.com/sql/sql_primarykey.asp
  */
 public class CreateTableWithPK {
 
